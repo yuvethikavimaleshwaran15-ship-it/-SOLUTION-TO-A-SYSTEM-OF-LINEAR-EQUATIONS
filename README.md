@@ -26,6 +26,7 @@ C = np.linalg.solve(A,B)
 print(C)
 ## Output:
 <img width="725" height="590" alt="image" src="https://github.com/user-attachments/assets/b405581c-faae-4816-a352-3b8b984e6594" />
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
